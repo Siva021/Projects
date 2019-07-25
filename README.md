@@ -1,4 +1,4 @@
-# projects worked on
+# Projects worked on
 
 Mcreator -          A mobile application to edit image and text to create a meme
                     It is very user-friendly and helps us create memes very easily
